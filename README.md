@@ -11,7 +11,7 @@ HOWEVER: Please give credit if you plan to build and sell it, and if you make an
 
 BOM cost is sub 10 dollars, aside of the control box
 
-Requires a 24 WS2812 ledring and M3 screws and bolts
+Requires a 24 led WS2812 ledring and M3 screws and bolts
 
 Pay attention to the diameter, since otherwise it will not fit. Internal diameter is 35.5, external diameter is 43mm. Anything in between would fit, but if you change number of led you need to adjust the code
 
