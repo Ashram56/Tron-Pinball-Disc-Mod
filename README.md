@@ -4,6 +4,7 @@ Tron pinball Disc mod
 This is a repository for my Tron disc mod
 
 Please pay attention to the licence: it is FREE to use, you can also build it and sell
+
 BOM cost is super low: ledring is about 5 dollars, 3D parts are cheap to print. Need to build your own control box, if you use Pinduino see lyonsden shop on Pinside
 
 HOWEVER: Please give credit if you plan to build and sell it, and if you make any modification (SW or HW), remember this is a GPL3 licence and all changes have to be published back, ideally as a fork of this document.
