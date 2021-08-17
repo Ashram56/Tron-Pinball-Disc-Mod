@@ -15,6 +15,10 @@ Pay attention to the diameter, since otherwise it will not fit. Internal diamete
 
 Solder wire (5V, ground, data in) Position led ring front side up, with IO pads above the opening. Plan for sufficient lenght to connect to wherever your control box is
 
+Pictures of the assembly are provided on the github.
+
+Please note that the plastic part I'm using on my unit is not the final one, I had to extend the part to add thickness to compensate for the ring added space
+
 I recommend to use Pinduino (I designed my own board, but code should be portable), as on Tron Pinduino should be able to access the motor relays signals. If you use Pinduino, you will need a wire all the way to the backbox. I'm too busy to port the code over to Pinduino, somebody will surely manage to do it (and feed it back here :-) )
 
 Control are essentially the two relays signals
