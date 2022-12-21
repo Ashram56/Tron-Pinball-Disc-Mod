@@ -13,7 +13,7 @@ BOM cost is sub 10 dollars, aside of the control box
 
 Requires a 24 led WS2812 ledring and M3 screws and bolts
 
-Pay attention to the diameter, since otherwise it will not fit. Internal diameter is 35.5, external diameter is 43mm. Anything in between would fit, but if you change number of led you need to adjust the code
+Pay attention to the diameter, since otherwise it will not fit. Internal diameter is 71mm, external diameter is 86mm. Anything in between would fit, but if you change number of led you need to adjust the code
 
 Solder wire (5V, ground, data in) Position led ring front side up, with IO pads above the opening. Plan for sufficient lenght to connect to wherever your control box is
 
